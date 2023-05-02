@@ -6,8 +6,8 @@ I love to help organizations unleash the power of data to solve business problem
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitesh_chandra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitesh-chandra-b61719175/) 
 
 # Hobbies 
- 🏔. Traveling. 
- 📚. Reading.  
+ 🏔. Traveling.    
+ 📚. Reading.    
  💻. Programming. 
 
 # 💻 Tech Stack:
