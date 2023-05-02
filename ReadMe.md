@@ -1,7 +1,7 @@
 # 💫 About Me:
 I love to help organizations unleash the power of data to solve business problems. I have experience working in Business Intelligence & Machine Learning with primary focus towards Data Analytics insights. My background in wireless networks along with experience in Healthcare and Fortune 500 companies have equipped me with necessary skills to effectively analyze and interpret complex datasets.
 
-### Explore my portfolio of innovative projects and Resume [here](https://niteshmatrix.github.io./)
+### Explore my portfolio of Innovative projects and Resume [by clicking here](https://niteshmatrix.github.io./)
 <br><br>
 
 
