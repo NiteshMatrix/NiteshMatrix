@@ -1,5 +1,6 @@
 # 💫 About Me:
-I love to help organizations unleash the power of data to solve business problems. I have experience working in Business Intelligence & Machine Learning with primary focus towards Data Analytics insights. My background in wireless networks along with experience in Healthcare and Fortune 500 companies have equipped me with necessary skills to effectively analyze and interpret complex datasets.
+Final year MBA student specializing in Business Analytics at IIM Amritsar with a BTech degree in Computer Science from MIT Pune. Seeking opportunities in Business Analyst, Data Analyst, Consultant, and Product Analyst roles. Experienced in domains including Consultancy, Analytics, and Operations through several internships. Proficient in data analysis, strategic decision-making, and leveraging technology to drive business growth. Skilled in Machine Learning, Artificial Neural Networks, NLP, Time series analysis, Big Data, Power BI, and SQL. Adept at bridging the gap between technical expertise and business objectives. Eager to contribute skills and knowledge to support organizational growth and success.
+
 
 ### Explore my portfolio of Innovative projects and Resume [by clicking here](https://niteshmatrix.github.io./)
 <br><br>
